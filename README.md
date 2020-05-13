@@ -1,2 +1,2 @@
 # NLP-unigram-bigram-trigram-generate-sentence
-This project includes building unigram, bigram and trigram models and then generating sentences with these models. Finally perplexity, sentence probability and smoothed sentence probability of generated sentences will be calculated.
+This project includes building unigram, bigram and trigram models and then generating sentences with these models. Finally perplexity, sentence probability and smoothed sentence probability of generated sentences will be calculated. The dataset is released by Facebook that is used to train artificial intelligence software to understand childrens stories and predict the word that was missing from a given sentence in a story.
